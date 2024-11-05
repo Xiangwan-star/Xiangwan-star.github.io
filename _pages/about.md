@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student. My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a fourth year undergraduate student from [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 
 
